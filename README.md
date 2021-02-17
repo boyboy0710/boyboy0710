@@ -1,6 +1,4 @@
 # 요즘 개발중인것
-- mob 
-- aromr
 - Pass-Survival
 # 사용하는 언어
 - 코틀린 [매우 가끔]
