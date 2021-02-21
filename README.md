@@ -1,6 +1,7 @@
 # 요즘 개발중인것
 - Pass-Survival
 - NoNeedpvp
+- Event
 # 사용하는 언어
 - 코틀린 [매우 가끔]
 
