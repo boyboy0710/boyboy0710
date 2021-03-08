@@ -1,6 +1,6 @@
 # 요즘 개발중인것
 - Mob (https://github.com/boyboy0710/mob-beta)
-- WorldEdit_Power_up (https://github.com/boy-s-Studio/WorldEdit-Power-up)_
+- WorldEdit_Power_up (https://github.com/boy-s-Studio/WorldEdit-Power-up)
 # 사용하는 언어
 - 코틀린 [배우는 중]
 - 파이썬[배우는 중]
